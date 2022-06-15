@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce2f9308-298f-4d0e-b891-0db7a96235f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Billy Cafe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Parking.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/cafe1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/cafe2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/cafe3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/cafe4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chef4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chefs-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chefs/chef1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chefs/chef2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chefs/chef3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chefs/chefs-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chefs/chefs-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chefs/chefs-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/event-birthday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/event-custom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/event-private.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/events-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/gallery-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/index.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pool.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/private.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slide/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slide/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slide/slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/specials-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/specials-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/specials-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/specials-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/specials-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/testimonials-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/testimonials-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/testimonials-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/testimonials-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/testimonials-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/testimonials-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/animate.css/animate.compat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/animate.css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/animate.css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap-icons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/boxicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/boxicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/transformations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/glightbox/css/glightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/glightbox/css/glightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/glightbox/js/glightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/glightbox/js/glightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/book-a-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inner-page.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="296Vyush91A8kQMk26ggw83z0Km" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Downloads/Delicious/assets/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/chefs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce2f9308-298f-4d0e-b891-0db7a96235f0" name="Changes" comment="" />
+      <created>1652433779335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652433779335</updated>
+      <workItem from="1652433780750" duration="5255000" />
+      <workItem from="1652519186969" duration="6981000" />
+      <workItem from="1652689044045" duration="5201000" />
+      <workItem from="1652699412587" duration="23000" />
+      <workItem from="1652861150629" duration="651000" />
+      <workItem from="1652879775831" duration="17000" />
+      <workItem from="1653381947099" duration="258000" />
+      <workItem from="1653392155686" duration="122000" />
+      <workItem from="1653479147218" duration="82000" />
+      <workItem from="1653480066744" duration="46000" />
+      <workItem from="1653480480873" duration="32000" />
+      <workItem from="1653909016943" duration="33000" />
+      <workItem from="1653998855475" duration="87000" />
+      <workItem from="1654516401609" duration="145000" />
+      <workItem from="1654608637164" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
